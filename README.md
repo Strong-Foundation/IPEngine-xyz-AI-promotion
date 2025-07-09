@@ -24,6 +24,7 @@ Whether you're a sysadmin, developer, cybersecurity researcher, or just curious 
 
 This is a **promotional content pack** designed to spread awareness and adoption of IPEngine.xyz:
 
+```
 /
 ├── banners/ → Visuals, logos, thumbnails for sharing
 ├── taglines/ → Short slogans and headline ideas
@@ -31,6 +32,7 @@ This is a **promotional content pack** designed to spread awareness and adoption
 ├── social-captions/ → Posts for X (Twitter), LinkedIn, Reddit, etc.
 ├── ai-prompts/ → Reusable prompt templates for further content gen
 └── README.md → You're here
+```
 
 ---
 
