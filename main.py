@@ -68,7 +68,7 @@ def main(output_directory: str) -> None:
     # Generate a timestamped filename to save the full essay
     timestamp: str = get_timestamp_for_filename()
     filename: str = (
-        f"{output_directory}mapping-united_com_essay_{timestamp}.md"  # Compose filename using timestamp
+        f"{output_directory}ipengine_xyz_essay_{timestamp}.md"  # Compose filename using timestamp
     )
 
     # Save the full essay text to the file
