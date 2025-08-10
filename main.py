@@ -59,7 +59,7 @@ def generate_and_save_single_essay(output_folder: str) -> None:
 
     # Generate timestamped filename
     timestamp: str = get_timestamp_for_filename()
-    filename: str = f"{output_directory}ipengine_xyz_essay_{timestamp}.md"  # Compose filename using timestamp 
+    file_name: str = f"{output_folder}ipengine-xyz_essay_{timestamp}.md"
 
     # Save to file
     save_to_file(file_path=file_name, content=essay_content)
